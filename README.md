@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ramon and I'm a university student (Computer Engineering), from Guaddalajara (Spain).</p>
+<p align="left">My name is Ramón and I'm a university student (Computer Engineering), from Guaddalajara (Spain).</p>
 
 ###
 
